@@ -1,0 +1,19 @@
+{
+  "name": "uniapp2wxpack-correct-nodemodules-plugin",
+  "version": "1.0.0",
+  "description": "此插件的作用是修正部分uniapp版本打包之后easycom配置的node-modules目录为绝对路径",
+  "main": "correctNodeModulesPath.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devilwjp/uniapp2wxpack-correct-nodemodules-plugin.git"
+  },
+  "author": "devilwjp (天堂里的花大咩)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devilwjp/uniapp2wxpack-correct-nodemodules-plugin/issues"
+  },
+  "homepage": "https://github.com/devilwjp/uniapp2wxpack-correct-nodemodules-plugin#readme"
+}
